@@ -18,7 +18,6 @@ return new class extends Migration
             $table->id();
             $table->string("nama");
             $table->string("nrp");
-            $table->string("email");
             $table->string("status");
             $table->timestamps();
         });

@@ -5,9 +5,9 @@
     <table class="table table-dark table-sm">
         <thead>
             <tr>
-                <th scope="col">ID</th>
-                <th scope="col">nama</th>
-                <th scope="col">nrp</th>
+                <th scope="col">No</th>
+                <th scope="col">Nama</th>
+                <th scope="col">Nrp</th>
                 <th scope="col">perintah</th>
             </tr>
         </thead>
